@@ -353,7 +353,7 @@ select:focus-visible {
 
 <div class="form-group">
     <label for="cari_surname">Cari Soyadı:</label>
-    <input type="text" id="cari_surname" name="cari_surname" value="<?= htmlspecialchars($cari['cari_surname']) ?>" required>
+    <input type="text" id="cari_surname" name="cari_surname" value="<?= htmlspecialchars($cari['cari_surname']) ?>">
 </div>
 
 <div class="form-group">
