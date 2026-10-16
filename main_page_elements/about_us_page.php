@@ -174,7 +174,7 @@ footer a:hover {
 
     <h2>Çalışmanın Amacı</h2>
     <p>
-        BBlackStone Muhasebe, gerçek bir ticari muhasebe ürünü olmanın ötesinde; modern web teknolojileriyle geliştirilen,
+        BlackStone Muhasebe, gerçek bir ticari muhasebe ürünü olmanın ötesinde; modern web teknolojileriyle geliştirilen,
         kullanıcı deneyimi ve arayüz tasarımına odaklanan bir örnek proje olarak hazırlanmıştır.
         Bu çalışma, bir yazılım geliştirici adayı olarak analiz yapabilme, ihtiyaçları doğru şekilde yorumlayabilme
         ve bu ihtiyaçlara işlevsel çözümler üretebilme becerilerimi ortaya koymayı amaçlamaktadır.
